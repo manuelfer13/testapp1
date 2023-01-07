@@ -5,6 +5,8 @@ import 'package:testapp/screens/screens.dart';
 
 void main() => runApp(MiApp());
 
+final Hola = "aaa";
+
 class MiApp extends StatelessWidget {
   const MiApp({super.key});
 
